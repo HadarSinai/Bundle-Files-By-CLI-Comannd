@@ -3,6 +3,17 @@ package matric;
 public class test {
 static int MS=5;
 static void print(int mat[][]){
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
 	for(int i=0;i<MS;i++){
 		for(int j=0;j<MS;j++)
 			System.out.printf("%4d",mat[i][j]);
